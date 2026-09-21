@@ -133,12 +133,12 @@ body {
 /* Title */
 
 .title-bar {
-    background-color: #a3c4bc;
+    background-color: #9BC1BC;
     padding: 20px;
 }
 
 .title-bar h1 {
-    color: #1a1a1a;
+    color: #000000;
     font-size: 32px;
     letter-spacing: 1px;
 }
